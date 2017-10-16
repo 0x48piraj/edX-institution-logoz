@@ -3,11 +3,8 @@
 
 > **edXLogoData** is a volunteer effort. We encourage you to pitch in and [join the team!]()
 
-Did you write a patch that fixes a bug?
 
-Open a new GitHub pull request with the patch.
-
-Before submitting, please read the Contributing to Ruby on Rails guide to know more about coding conventions and benchmarks.
+Before submitting, please read the Contributing to **edXLogoData** guide to know more about benchmarks.
 
 # Do you intend to add a new feature or change an existing one?
 
