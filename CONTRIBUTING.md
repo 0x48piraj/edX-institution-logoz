@@ -3,18 +3,18 @@
 
 > **edXLogoData** is a volunteer effort. We encourage you to pitch in and [join the team!]()
 
-# Do you intend to add a new feature or change an existing one?
+## Do you intend to add a new feature or change an existing one?
 
 Suggest your change with me([contact@0x48piraj.co]()) and start writing/collecting code/docs/data.
 
 Do not open an issue on GitHub until you have collected positive feedback about the change.
 > GitHub issues are primarily intended for bug reports and fixes.
 
-# Do you have questions about the Project?
+## Do you have questions about the Project?
 
 Ask any question about how to use **edXLogoData**, contact [contact@0x48piraj.co]()
 
-# Do you want to contribute to the documentation/ README ?
+## Do you want to contribute to the documentation/ README ?
 Before submitting, please read the Contributing to **edXLogoData** guide to know more about benchmarks.
 
 * Please read Contributing to the [Documentation]().
