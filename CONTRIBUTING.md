@@ -5,7 +5,7 @@
 
 ## Do you intend to add a new feature or change an existing one?
 
-Suggest your change with **me**([contact@0x48piraj.co]()) and start writing/collecting code/docs/data.
+Suggest your change with **me**([contact@0x48piraj.co]()) and start writing **code, docs** or collecting and **Logodata**.
 
 Do not open an issue on GitHub until you have collected positive feedback about the change.
 > GitHub issues are primarily intended for bug reports and fixes.
