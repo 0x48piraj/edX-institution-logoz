@@ -5,7 +5,7 @@
 
 ## Do you intend to add a new feature or change an existing one?
 
-Suggest your change with me([contact@0x48piraj.co]()) and start writing/collecting code/docs/data.
+Suggest your change with **me**([contact@0x48piraj.co]()) and start writing/collecting code/docs/data.
 
 Do not open an issue on GitHub until you have collected positive feedback about the change.
 > GitHub issues are primarily intended for bug reports and fixes.
@@ -20,6 +20,7 @@ Before submitting, please read the Contributing to **edXLogoData** guide to know
 * Please read Contributing to the [Documentation]().
 
 You can help improve the **edXLogoData** Docs by making them more coherent, consistent or readable, adding missing information, correcting factual errors, fixing typos.
+
 To do so, open a pull request to **edXLogoData** on GitHub.
 
 ---
