@@ -1,4 +1,4 @@
 # edXLogoData
 > edX institution logoz
 
-> **Work is in Progress, check it out later ! :) **
+> **Work is in Progress, check it out later ! :)**
