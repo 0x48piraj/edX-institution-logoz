@@ -1,6 +1,6 @@
 # edXLogoData
 
-> **Work is in Progress ! :)**
+> A `repo` which can only be completed by lots and lots contributions !
 
 ---
 # Hacktoberfest Special 
