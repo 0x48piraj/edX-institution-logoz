@@ -3,7 +3,7 @@
 > A `repo` which can only be completed by lots and lots contributions !
 
 ---
-# Hacktoberfest Special 
+# Hacktoberfest 2017 Special 
 ## Issue [#1](https://github.com/0x48piraj/edXLogoData/issues/1)
 ---
 **We want to collect all edX mooc Logo's !**
