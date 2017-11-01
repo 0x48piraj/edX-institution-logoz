@@ -12,7 +12,7 @@
 
 If you ever have **completed an edX Course and got a `certificate`** then, this is a piece of cake :cake:  for you !
 
-You can easily find the correct **logo-dimensions** by _copying_ the **image** `url` on `https://courses.edx.org/certificates/your_certid`
+You can easily find the correct **logo-dimensions** by _copying_ the **image** `url` on `https://courses.edx.org/certificates/certid`
 
 #### Just collect as many logo's you have or you can & put them on the `logoz` folder and fire a **pull request**
 
