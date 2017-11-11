@@ -21,7 +21,7 @@ Before submitting, please read the Contributing to **edXLogoData** guide to know
 
 You can help improve the **edXLogoData** Docs by making them more coherent, consistent or readable, adding missing information, correcting factual errors, fixing typos.
 
-To do so, open a pull request to **edXLogoData** on GitHub.
+To do so, open a Pull Request (PR) to **edXLogoData** on **GitHub**.
 
 ---
 
