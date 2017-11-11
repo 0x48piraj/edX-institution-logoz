@@ -19,7 +19,7 @@ Before submitting, please read the Contributing to **edXLogoData** guide to know
 
 * Please read Contributing to the [Documentation]().
 
-You can help improve the **edXLogoData** Docs by making them more coherent, consistent or readable, adding missing information, correcting factual errors, fixing typos.
+You can help improve the **edXLogoData** Docs by making them more coherent, consistent or readable, adding missing information, correcting factual errors, fixing typo(s).
 
 To do so, open a Pull Request (PR) to **edXLogoData** on **GitHub**.
 
