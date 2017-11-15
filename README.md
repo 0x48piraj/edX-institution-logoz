@@ -1,3 +1,3 @@
 # edXLogoData
 
-> A `repo` which can only be completed by lots and lots contributions !
+> A `repo` which can only be completed by lots and lots of contributions !
