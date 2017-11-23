@@ -1,4 +1,4 @@
-
+> *The ones with "**The Tick**" have been collected! :relieved::heart_eyes:*
 
 ### Extensive List :
 - [x] **[MITx](https://www.edx.org/school/mitx)**
@@ -18,3 +18,4 @@
 - [ ] **[UBCx](https://www.edx.org/school/ubcx)**
 - [ ] **[IITBombayX](https://www.edx.org/school/iitbombayx)**
 
+> #### Note : This list is not "Not Sorted" in any way! 
