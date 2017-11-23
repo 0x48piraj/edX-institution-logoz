@@ -5,13 +5,16 @@
 - [ ] **[HarvardX](https://www.edx.org/school/harvardx)**
 - [ ] **[UC BerkeleyX](https://www.edx.org/school/uc-berkeleyx)**
 - [ ] **[DelftX](https://www.edx.org/school/delftx)**
-- [ ] **[BUx](https://www.edx.org/school/bux)**
+- [ ] **[CornellX](https://www.edx.org/school/cornellx)**
+- [ ] **[UC San DiegoX](https://www.edx.org/school/uc-san-diegox)**
+- [ ] **[PrincetonX](https://www.edx.org/school/princetonx)**
 - [ ] **[BrownX](https://www.edx.org/school/brownx)**
 - [ ] **[BerkleeX](https://www.edx.org/school/berkleex)**
 - [ ] **[GTx](https://www.edx.org/school/gtx)**
-- [ ] **[CornellX](https://www.edx.org/school/cornellx)**
+- [ ] **[BUx](https://www.edx.org/school/bux)**
 - [ ] **[UTSystemX](https://www.edx.org/school/utsystemx)**
-- [ ] **[UC San DiegoX](https://www.edx.org/school/uc-san-diegox)**
+- [ ] **[JuilliardX](https://www.edx.org/school/juilliardx)**
 - [ ] **[EdinburghX](https://www.edx.org/school/edinburghx)**
 - [ ] **[UBCx](https://www.edx.org/school/ubcx)**
+- [ ] **[IITBombayX](https://www.edx.org/school/iitbombayx)**
 
