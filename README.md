@@ -1,5 +1,8 @@
 # edXLogoData
-
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/makes-people-smile.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/powered-by-responsibility.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/winter-is-coming.svg)](http://forthebadge.com)
 > A `repo` which can only be completed by lots and lots of contributions !
 
 
