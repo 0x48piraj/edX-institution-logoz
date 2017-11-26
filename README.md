@@ -36,3 +36,7 @@ Simply, It's a **Public** `repository` which holds various **Institutions Logo**
 > * **Fork!**
 > * **Watch!**
 
+
+# License
+
+### [MIT](LICENSE)
