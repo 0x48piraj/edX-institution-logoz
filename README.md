@@ -13,6 +13,14 @@
 
 Simply, It's a **Public** `repository` which holds various **Institutions Logo**.
 
+# But, Why ?
+
+* Ever completed an **edX Course** ?
+* Felt blessed and thought to *share* the **Holly Molly Experience** ? 
+* Are you a **Blogger** ?
+
+**Even worse, If you have done two courses, probably  you didn't added a cover logo! You got me ? :wink:**
+
 
 # Contribute!
 > Want to Contribute ? You're most Welcome! :wink:
