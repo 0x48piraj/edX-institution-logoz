@@ -3,10 +3,10 @@
 [![Join the chat at https://gitter.im/edXLogoData/Lobby](https://badges.gitter.im/edXLogoData/Lobby.svg)](https://gitter.im/edXLogoData/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
-[![forthebadge](http://forthebadge.com/images/badges/makes-people-smile.svg)](http://forthebadge.com)
-[![forthebadge](http://forthebadge.com/images/badges/powered-by-responsibility.svg)](http://forthebadge.com)
-[![forthebadge](http://forthebadge.com/images/badges/winter-is-coming.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)]()
+[![forthebadge](http://forthebadge.com/images/badges/makes-people-smile.svg)]()
+[![forthebadge](http://forthebadge.com/images/badges/powered-by-responsibility.svg)]()
+[![forthebadge](http://forthebadge.com/images/badges/winter-is-coming.svg)]()
 > A `repo` which can only be completed by lots and lots of contributions !
 
 # What is it ?
