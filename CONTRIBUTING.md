@@ -1,7 +1,7 @@
 
 # How to contribute to edXLogoData
 
-> **edXLogoData** is a volunteer effort. We encourage you to pitch in and [join the team!](https://github.com/0x48piraj/edXLogoData/issues)
+> **edXLogoData** is a volunteer effort. We encourage you to pitch in and [join the team!](https://gitter.im/edXLogoData/Lobby)
 
 **Note :** *One possible way is to tell us through an [issue](https://github.com/0x48piraj/edXLogoData/issues), and we'll add you to the contributor list.*
 
