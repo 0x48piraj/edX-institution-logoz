@@ -9,10 +9,6 @@
 [![forthebadge](http://forthebadge.com/images/badges/winter-is-coming.svg)](README.md)
 > A `repo` which can only be completed by lots and lots of contributions !
 
-# NOTICE:
-
-## I found a leaking server which gave me access to most of the university logos!! :tada:
-
 # What is it ?
 
 Simply, It's a **Public** `repository` which holds various **Institutions Logo**.
